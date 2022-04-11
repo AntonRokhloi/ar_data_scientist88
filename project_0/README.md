@@ -1,5 +1,3 @@
-# ar_data_scientist88
-AR homework
 # My Data Science projects
 
 From the [] ()/
